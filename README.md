@@ -1,6 +1,6 @@
 # Frinx Home Assignment
 
-This program extracts Interface configurations from a JSON config file and persists them in a Postgres database according to the [assignment](./Python\ home\ assignment_2021.docx )
+This program extracts Interface configurations from a JSON config file and persists them in a Postgres database according to the [assignment](./Python_home_assignment_2021.docx)
 
 ## Requirements:
 
