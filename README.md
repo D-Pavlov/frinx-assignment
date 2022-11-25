@@ -21,9 +21,14 @@ This program extracts Interface configurations from a JSON config file and persi
 4. run the script
 
    ```
-   python assignment.py
+   python src/assignment.py
    ```
 5. inspect the DB to see the results
+6. optionally clean the DB
+
+   ```
+   python src/clean_db.py
+   ```
 
 ## Limitations:
 
